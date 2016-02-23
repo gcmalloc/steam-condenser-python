@@ -13,7 +13,7 @@ setup(
     author='Peter Rowlands',
     author_email='peter@pmrowla.com',
     url='https://github.com/pmrowla/steam-condenser-python',
-    packages=['steamcondenser'],
+    packages=['steamcondenser', 'steamcondenser.community'],
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',
         'Intended Audience :: Developers',
